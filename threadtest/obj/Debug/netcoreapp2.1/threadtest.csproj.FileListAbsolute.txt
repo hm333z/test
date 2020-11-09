@@ -1,0 +1,11 @@
+C:\Users\17807\source\repos\threadtest\threadtest\obj\Debug\netcoreapp2.1\threadtest.csprojAssemblyReference.cache
+C:\Users\17807\source\repos\threadtest\threadtest\obj\Debug\netcoreapp2.1\threadtest.csproj.CoreCompileInputs.cache
+C:\Users\17807\source\repos\threadtest\threadtest\obj\Debug\netcoreapp2.1\threadtest.AssemblyInfoInputs.cache
+C:\Users\17807\source\repos\threadtest\threadtest\obj\Debug\netcoreapp2.1\threadtest.AssemblyInfo.cs
+C:\Users\17807\source\repos\threadtest\threadtest\bin\Debug\netcoreapp2.1\threadtest.deps.json
+C:\Users\17807\source\repos\threadtest\threadtest\bin\Debug\netcoreapp2.1\threadtest.runtimeconfig.json
+C:\Users\17807\source\repos\threadtest\threadtest\bin\Debug\netcoreapp2.1\threadtest.runtimeconfig.dev.json
+C:\Users\17807\source\repos\threadtest\threadtest\bin\Debug\netcoreapp2.1\threadtest.dll
+C:\Users\17807\source\repos\threadtest\threadtest\bin\Debug\netcoreapp2.1\threadtest.pdb
+C:\Users\17807\source\repos\threadtest\threadtest\obj\Debug\netcoreapp2.1\threadtest.dll
+C:\Users\17807\source\repos\threadtest\threadtest\obj\Debug\netcoreapp2.1\threadtest.pdb
